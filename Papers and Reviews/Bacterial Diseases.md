@@ -1,7 +1,8 @@
+
 Types: 
 
-1.  Bacterial canker (Clavibacter michiganensis subsp. michiganensis)
-2.  Bacterial speck (Pseudomonas syringae pv. tomato)
+1.  [[Bacterial Canker (Clavibacter michiganensis subsp. michiganensis)]]
+2.  [[Bacterial Speck (Pseudomonas syringae pv. tomato)]] 
 3.  Bacterial spot (Xanthomonas campestris pv. vesicatoria)
 4.  Bacterial wilt (Ralstonia solanacearum)
 5.  Southern bacterial wilt (Ralstonia solanacearum race 3 biovar 2)
@@ -9,29 +10,6 @@ Types:
 7.  Tomato bacterial fruit rot (Ralstonia solanacearum)
 
 
-
-1.  Bacterial canker (Clavibacter michiganensis subsp. michiganensis):
-		Causes :
-			-   Caused by the bacterium Clavibacter michiganensis subsp. michiganensis
-			-   Typically enters the plant through wounds or natural openings, such as stomata or hydathodes
-			-   Spreads through infected seed, plant debris, and contaminated tools and equipment
-		Symptomps:
-			-   Yellowing and wilting of lower leaves
-			-   Brown, water-soaked lesions on the stem
-			-   Splitting and cracking of the stem and fruit
-			-   Discoloration and rotting of the fruit
-
-
-2.  Bacterial speck (Pseudomonas syringae pv. tomato):
-		Causes:
-			-   Caused by the bacterium Pseudomonas syringae pv. tomato
-			-   Spreads through wind-driven rain, irrigation water, and contaminated tools and equipment
-			-   Can survive in infected plant debris and in the soil for several years
-		Symptomps:
-			-   Small, dark, raised spots on the leaves, stems, and fruit
-			-   Lesions surrounded by a yellow halo
-			-   Leaves may become twisted and distorted
-			-   Infected fruit may be deformed or have corky lesions
 
 
 3.  Bacterial spot (Xanthomonas campestris pv. vesicatoria):

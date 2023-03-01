@@ -1,3 +1,14 @@
+[[Diseases of Tomato]]
+
+Types:
+1. Early blight (Alternaria solani):
+2. Late blight
+3. Fusarium wilt
+4. Verticillium Wilt
+5. Anthracnose
+6. Powdery Mildew
+7. Gray Mold
+
 
 1.  Early blight (Alternaria solani):
 		Causes:

@@ -11,3 +11,8 @@ Scientifically, the plant Tomato can be categorised as
 9. Variety (Cultivar): ...
 
 Close Cousins : Tobacco, Chilli Peppers, Potato, Eggplant
+
+There are different [[Cultivation of Tomatoes in Nepal]]
+
+Tomato Can suffer from different diseases. 
+[[Diseases of Tomato]]

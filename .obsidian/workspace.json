@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Diseases of Tomato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2061f21ad23ea376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Papers and Reviews/Bacterial Diseases.md",
                 "mode": "source",
                 "source": false
@@ -32,20 +20,18 @@
             }
           },
           {
-            "id": "cb196a109c1aa29d",
+            "id": "9225a95bffd86ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
+                "file": "Papers and Reviews/Bacterial Canker (Clavibacter michiganensis subsp. michiganensis).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
+                "file": "Papers and Reviews/Bacterial Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +114,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
+                "file": "Papers and Reviews/Bacterial Diseases.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -151,17 +137,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers and Reviews/Cultivation of Tomatoes in Nepal.md"
+                "file": "Papers and Reviews/Bacterial Diseases.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +157,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb196a109c1aa29d",
+  "active": "8aec39dcb24ac2fc",
   "lastOpenFiles": [
+    "Papers and Reviews/Bacterial Canker (Clavibacter michiganensis subsp. michiganensis).md",
     "Papers and Reviews/Bacterial Diseases.md",
-    "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
-    "Papers and Reviews/Fungal Diseases.md",
-    "README.md",
     "Papers and Reviews/Diseases of Tomato.md",
-    "Papers and Reviews/Bacterial Canker.md",
-    "Papers and Reviews/What is a Plant (Tomato).md",
+    "Bacterial Canker.md",
+    "Papers and Reviews/Tomato.md",
+    "Untitled.canvas",
+    "Papers and Reviews/Bacterial Speck (Pseudomonas syringae pv. tomato).md",
+    "README.md",
+    "Papers and Reviews/Fungal Diseases.md",
+    "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
     "Papers and Reviews"
   ]
 }
