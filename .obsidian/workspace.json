@@ -11,8 +11,30 @@
             "id": "141f24cc55ca1043",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Fungal Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b134748526ceef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e73cab55474c134b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Early  Blight.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Papers and Reviews/Early  Blight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Papers and Reviews/Early  Blight.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Papers and Reviews/Early  Blight.md"
+              }
             }
           }
         ]
@@ -137,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141f24cc55ca1043",
+  "active": "e73cab55474c134b",
   "lastOpenFiles": [
+    "Papers and Reviews/Fungal Diseases.md",
+    "Papers and Reviews/Early  Blight.md",
     "Papers and Reviews/Leaf.md",
     "Papers and Reviews/Diseases of Tomato.md",
     "Papers and Reviews/Root.md",
@@ -156,7 +184,6 @@
     "Untitled.md",
     "Papers and Reviews/Bacterial Diseases.md",
     "Bacterial Canker.md",
-    "Papers and Reviews/Fungal Diseases.md",
     "Untitled.canvas",
     "README.md",
     "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
