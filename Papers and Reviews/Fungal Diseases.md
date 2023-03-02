@@ -1,7 +1,7 @@
 
 Types:
-1. Early blight (Alternaria solani):
-2. Late blight
+1. [[Early  Blight|Early blight]] (Alternaria solani):
+2. [[Late blight]]
 3. Fusarium wilt
 4. Verticillium Wilt
 5. Anthracnose
@@ -9,20 +9,7 @@ Types:
 7. Gray Mold
 
 
-1.  Early blight (Alternaria solani):
 
-
-
-2.  Late blight (Phytophthora infestans):
-		Causes
-			-   Fungus survives in soil, plant debris, and infected potato tubers
-			-   Spreads through windborne spores and infected seed
-			-   Cool, wet weather and high humidity promote the disease
-		Symptomps
-			-   Irregularly-shaped, water-soaked lesions on leaves
-			-   White, fluffy growth on the underside of leaves in humid conditions
-			-   Leaf drop and defoliation
-			-   Brown, firm lesions on fruit
 
 
 3.  Fusarium wilt (Fusarium oxysporum):
