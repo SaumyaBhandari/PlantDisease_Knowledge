@@ -1,4 +1,6 @@
 
+Scientific Name: Clavibacter michiganensis subsp. michiganensis
+
 Causes :
 	-   Caused by the bacterium Clavibacter michiganensis subsp. michiganensis
 	-   Typically enters the plant through wounds or natural openings, such as stomata or hydathodes
