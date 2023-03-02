@@ -1,4 +1,6 @@
 
+Scientific Name: Pseudomonas syringae pv. tomato
+
 Causes :
 	-   Caused by the bacterium Pseudomonas syringae pv. tomato
 	-   Spreads through wind-driven rain, irrigation water, and contaminated tools and equipment
