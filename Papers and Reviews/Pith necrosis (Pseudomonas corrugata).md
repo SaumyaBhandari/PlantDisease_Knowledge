@@ -5,6 +5,6 @@ Causes:
 	-   Spreads through contaminated tools and equipment, and infected plant debris
 
 Symptomps:
-	-   Discoloration and rotting of the stem, particularly near the soil line
+	-   Discoloration and rotting of the [[Steam|stem]], particularly near the soil line
 	-   Wilting of the leaves and plant collapse
 	-   Plant may develop a foul odor

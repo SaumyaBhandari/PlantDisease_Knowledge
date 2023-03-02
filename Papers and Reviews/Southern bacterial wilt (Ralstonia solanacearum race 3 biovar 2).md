@@ -6,4 +6,4 @@ Causes:
 	-   Can survive in the soil for several years
 	- 
 Symptomps:
-	-   Similar symptoms to bacterial wilt, but affects tomato plants in warmer regions
+	-   Similar symptoms to [[Bacterial wilt (Ralstonia solanacearum)|bacterial wilt]], but affects tomato plants in warmer regions

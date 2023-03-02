@@ -1,4 +1,4 @@
-Diseases in tomatoes affect different parts of tomato's body parts.
+
 
 All the diseases in Tomato can be identified by following categories:
 	1. [[Bacterial Diseases]]
