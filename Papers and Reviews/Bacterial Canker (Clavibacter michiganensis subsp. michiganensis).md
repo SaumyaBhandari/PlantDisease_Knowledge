@@ -6,6 +6,6 @@ Causes :
 
 Symptomps:
 	-   Yellowing and wilting of lower [[Leaf|leaf]]
-	-   Brown, water-soaked lesions on the [[Steam|stem]]
+	-   Brown, water-soaked lesions on the [[Stem|stem]]
 	-   Splitting and cracking of the stem and [[Fruit|fruit]]
 	-   Discoloration and rotting of the [[Fruit|fruit]]

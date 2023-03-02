@@ -7,7 +7,7 @@ Causes
 	-   Cool, wet weather and high humidity promote the disease
 
 Symptomps
-	-   Irregularly-shaped, water-soaked lesions on leaves
-	-   White, fluffy growth on the underside of leaves in humid conditions
-	-   Leaf drop and defoliation
+	-   Irregularly-shaped, water-soaked lesions on [[Leaf|leaves]]
+	-   White, fluffy growth on the underside of [[Leaf|leaves]] in humid conditions
+	-   [[Leaf|Leaf]] drop and defoliation
 	-   Brown, firm lesions on fruit

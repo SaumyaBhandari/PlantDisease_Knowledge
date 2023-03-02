@@ -7,6 +7,6 @@ Causes:
 
 Symptomps:
 	-   Wilting and yellowing of the [[Leaf|leaves]], typically starting on one side of the plant
-	-   Dark discoloration of the vascular tissue in the [[Steam|stem]]
+	-   Dark discoloration of the vascular tissue in the [[Stem|stem]]
 	-   Plants may die suddenly or gradually over a period of weeks
 	-   Brown, water-soaked lesions may appear on the [[Fruit|fruit]]

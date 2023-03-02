@@ -1,8 +1,8 @@
 
 Types:
-1. [[Early  Blight|Early blight]] (Alternaria solani):
+1. [[Early  Blight|Early blight]]
 2. [[Late blight]]
-3. Fusarium wilt
+3. [[Fusarium Wilt|Fusarium wilt]]
 4. Verticillium Wilt
 5. Anthracnose
 6. Powdery Mildew
@@ -11,29 +11,6 @@ Types:
 
 
 
-
-3.  Fusarium wilt (Fusarium oxysporum):
-		Causes:  
-			- Fungus survives in soil and plant debris
-			-   Spreads through infected seed and water
-			-   Warm, dry weather and poorly-drained soil promote the disease
-		Symptomps:
-			-   Yellowing and wilting of the lower leaves
-			-   Browning and discoloration of the vascular tissue in the stem
-			-   Stunting and poor growth
-			-   Plants may die suddenly or gradually
-
-
-4.  Verticillium wilt (Verticillium spp.):
-		Causes:  
-			- Fungus survives in soil and plant debris
-			-   Spreads through water, wind, and infected seed
-			-   Cool, damp weather and compacted soil promote the disease
-		Symptomps:
-			-   Wilting and yellowing of the leaves, starting from the bottom of the plant
-			-   Brown discoloration of the vascular tissue in the stem
-			-   Stunting and poor growth
-			-   Plants may die suddenly or gradually
 
 
 5.  Anthracnose (Colletotrichum spp.):

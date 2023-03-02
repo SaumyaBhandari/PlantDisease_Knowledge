@@ -22,22 +22,35 @@
         ]
       },
       {
-        "id": "0b134748526ceef6",
+        "id": "6205fde89fdc8cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d6199d067972be",
+            "id": "ef86a23f018d4c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Late Blight.md",
+                "file": "Papers and Reviews/Fusarium Wilt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aa5f1d0d5a7464c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Verticillium Wilt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Late Blight.md",
+                "file": "Papers and Reviews/Verticillium Wilt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Late Blight.md",
+                "file": "Papers and Reviews/Verticillium Wilt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers and Reviews/Late Blight.md"
+                "file": "Papers and Reviews/Verticillium Wilt.md"
               }
             }
           }
@@ -163,9 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5d6199d067972be",
+  "active": "67c3ef2c1506db8d",
   "lastOpenFiles": [
     "Papers and Reviews/Fungal Diseases.md",
+    "Papers and Reviews/Verticillium Wilt.md",
+    "Papers and Reviews/Fusarium Wilt.md",
     "Papers and Reviews/Late Blight.md",
     "Papers and Reviews/Early  Blight.md",
     "Papers and Reviews/Leaf.md",
@@ -181,7 +196,7 @@
     "Papers and Reviews/Bacterial wilt (Ralstonia solanacearum).md",
     "Papers and Reviews/Bacterial Speck (Pseudomonas syringae pv. tomato).md",
     "Papers and Reviews/Fruit.md",
-    "Papers and Reviews/Steam.md",
+    "Papers and Reviews/Stem.md",
     "Untitled.md",
     "Papers and Reviews/Bacterial Diseases.md",
     "Bacterial Canker.md",

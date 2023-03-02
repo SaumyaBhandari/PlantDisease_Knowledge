@@ -6,7 +6,7 @@ Causes :
 	-   Can survive in infected plant debris and in the soil for several years
 
 Symptomps :
-	-   Dark, water-soaked lesions on the [[Leaf|leaves]], [[Steam|stems]], and [[Fruit|fruit]]
+	-   Dark, water-soaked lesions on the [[Leaf|leaves]], [[Stem|stems]], and [[Fruit|fruit]]
 	-   Lesions surrounded by a yellow halo
 	-   Leaves may become yellow and drop prematurely
 	-   [[Fruit]] may have raised, scab-like lesions

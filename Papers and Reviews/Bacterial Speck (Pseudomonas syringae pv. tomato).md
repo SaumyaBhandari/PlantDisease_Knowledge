@@ -5,7 +5,7 @@ Causes :
 	-   Can survive in infected plant debris and in the soil for several years
 
 Symptomps :
-	-   Small, dark, raised spots on the [[Leaf|leaves]], [[Steam|stems]], and [[Fruit|fruit]]
+	-   Small, dark, raised spots on the [[Leaf|leaves]], [[Stem|stems]], and [[Fruit|fruit]]
 	-   Lesions surrounded by a yellow halo
 	-   [[Leaf|Leaves]] may become twisted and distorted
 	-   Infected [[Fruit|fruit]] may be deformed or have corky lesions
