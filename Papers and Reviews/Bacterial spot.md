@@ -1,4 +1,6 @@
 
+Scientific Name: Xanthomonas campestris pv. vesicatoria
+
 Causes :
 	-   Caused by the bacterium Xanthomonas campestris pv. vesicatoria
 	-   Enters the plant through natural openings, such as stomata or hydathodes, and  through wounds
