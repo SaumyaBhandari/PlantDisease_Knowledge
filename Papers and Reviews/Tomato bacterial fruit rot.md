@@ -1,3 +1,6 @@
+
+Scientific Name: Ralstonia solanacearum
+
 Causes:
 	-   Caused by the bacterium Ralstonia solanacearum
 	-   Enters the plant through the roots and colonizes the xylem tissue, causing wilting and yellowing of the leaves
