@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc514b862f82d53",
+        "id": "17a135e301f0a80c",
         "type": "tabs",
         "children": [
           {
-            "id": "8aec39dcb24ac2fc",
+            "id": "1848247f35979413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Bacterial Diseases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9225a95bffd86ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers and Reviews/Bacterial Canker (Clavibacter michiganensis subsp. michiganensis).md",
+                "file": "Papers and Reviews/Tomato Plant.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Bacterial Diseases.md",
+                "file": "Papers and Reviews/Tomato Plant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Bacterial Diseases.md",
+                "file": "Papers and Reviews/Tomato Plant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers and Reviews/Bacterial Diseases.md"
+                "file": "Papers and Reviews/Tomato Plant.md"
               }
             }
           }
@@ -157,17 +145,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8aec39dcb24ac2fc",
+  "active": "1848247f35979413",
   "lastOpenFiles": [
+    "Papers and Reviews/Tomato bacterial fruit rot (Ralstonia solanacearum).md",
+    "Papers and Reviews/Tomato Plant.md",
     "Papers and Reviews/Bacterial Canker (Clavibacter michiganensis subsp. michiganensis).md",
-    "Papers and Reviews/Bacterial Diseases.md",
+    "Papers and Reviews/Leaf.md",
+    "Papers and Reviews/Body parts.md",
     "Papers and Reviews/Diseases of Tomato.md",
-    "Bacterial Canker.md",
-    "Papers and Reviews/Tomato.md",
-    "Untitled.canvas",
+    "Papers and Reviews/Fruit.md",
+    "Papers and Reviews/Root.md",
+    "Papers and Reviews/Steam.md",
+    "Untitled.md",
+    "Papers and Reviews/Bacterial spot (Xanthomonas campestris pv. vesicatoria).md",
+    "Papers and Reviews/Bacterial Diseases.md",
+    "Papers and Reviews/Pith necrosis (Pseudomonas corrugata).md",
+    "Papers and Reviews/Southern bacterial wilt (Ralstonia solanacearum race 3 biovar 2).md",
+    "Papers and Reviews/Bacterial wilt (Ralstonia solanacearum).md",
     "Papers and Reviews/Bacterial Speck (Pseudomonas syringae pv. tomato).md",
-    "README.md",
+    "Bacterial Canker.md",
     "Papers and Reviews/Fungal Diseases.md",
+    "Untitled.canvas",
+    "README.md",
     "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
     "Papers and Reviews"
   ]

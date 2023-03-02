@@ -1,4 +1,3 @@
-[[Diseases of Tomato]]
 
 Types:
 1. Early blight (Alternaria solani):

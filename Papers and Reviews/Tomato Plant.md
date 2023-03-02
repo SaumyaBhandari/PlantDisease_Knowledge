@@ -12,6 +12,9 @@ Scientifically, the plant Tomato can be categorised as
 
 Close Cousins : Tobacco, Chilli Peppers, Potato, Eggplant
 
+The [[Body parts]] of tomato can be classified into different parts.
+
+
 There are different [[Cultivation of Tomatoes in Nepal]]
 
 Tomato Can suffer from different diseases. 
