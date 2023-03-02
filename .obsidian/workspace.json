@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Bacterial wilt.md",
+                "file": "Papers and Reviews/Pith necrosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Bacterial wilt.md",
+                "file": "Papers and Reviews/Pith necrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Bacterial wilt.md",
+                "file": "Papers and Reviews/Pith necrosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers and Reviews/Bacterial wilt.md"
+                "file": "Papers and Reviews/Pith necrosis.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "141f24cc55ca1043",
   "lastOpenFiles": [
+    "Papers and Reviews/Diseases of Tomato.md",
+    "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
+    "Papers and Reviews/Bacterial wilt.md",
     "Papers and Reviews/Bacterial spot.md",
     "Papers and Reviews/Bacterial Speck.md",
     "Papers and Reviews/Bacterial Canker.md",
@@ -160,21 +163,18 @@
     "Papers and Reviews/Late Blight.md",
     "Papers and Reviews/Early  Blight.md",
     "Papers and Reviews/Leaf.md",
-    "Papers and Reviews/Diseases of Tomato.md",
     "Papers and Reviews/Root.md",
     "Papers and Reviews/Body parts.md",
     "Papers and Reviews/Tomato Plant.md",
-    "Papers and Reviews/Pith necrosis (Pseudomonas corrugata).md",
+    "Papers and Reviews/Pith necrosis.md",
     "Papers and Reviews/Tomato bacterial fruit rot (Ralstonia solanacearum).md",
     "Papers and Reviews/Southern bacterial wilt (Ralstonia solanacearum race 3 biovar 2).md",
-    "Papers and Reviews/Bacterial wilt.md",
     "Papers and Reviews/Fruit.md",
     "Papers and Reviews/Stem.md",
     "Papers and Reviews/Bacterial Diseases.md",
     "Bacterial Canker.md",
     "Untitled.canvas",
     "README.md",
-    "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
     "Papers and Reviews"
   ]
 }

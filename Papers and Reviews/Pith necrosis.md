@@ -1,4 +1,6 @@
 
+Scientific Name: Pseudomonas corrugata
+
 Causes:
 	-   Caused by the bacterium Pseudomonas corrugata
 	-   Enters the plant through wounds and colonizes the pith tissue, causing necrosis and stem rot
