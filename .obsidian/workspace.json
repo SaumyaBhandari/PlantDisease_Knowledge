@@ -26,24 +26,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef86a23f018d4c5d",
+            "id": "36d4b7c5e74048a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Fusarium Wilt.md",
+                "file": "Papers and Reviews/Anthracnose.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8aa5f1d0d5a7464c",
+            "id": "8ca543737b015f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Verticillium Wilt.md",
+                "file": "Powdery Mildew.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Verticillium Wilt.md",
+                "file": "Powdery Mildew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Verticillium Wilt.md",
+                "file": "Powdery Mildew.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers and Reviews/Verticillium Wilt.md"
+                "file": "Powdery Mildew.md"
               }
             }
           }
@@ -176,11 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8aa5f1d0d5a7464c",
+  "active": "8ca543737b015f41",
   "lastOpenFiles": [
-    "Papers and Reviews/Fusarium Wilt.md",
-    "Papers and Reviews/Verticillium Wilt.md",
     "Papers and Reviews/Fungal Diseases.md",
+    "Powdery Mildew.md",
+    "Papers and Reviews/Anthracnose.md",
+    "Papers and Reviews/Verticillium Wilt.md",
+    "Papers and Reviews/Fusarium Wilt.md",
     "Papers and Reviews/Late Blight.md",
     "Papers and Reviews/Early  Blight.md",
     "Papers and Reviews/Leaf.md",
@@ -197,7 +199,6 @@
     "Papers and Reviews/Bacterial Speck (Pseudomonas syringae pv. tomato).md",
     "Papers and Reviews/Fruit.md",
     "Papers and Reviews/Stem.md",
-    "Untitled.md",
     "Papers and Reviews/Bacterial Diseases.md",
     "Bacterial Canker.md",
     "Untitled.canvas",
