@@ -10,12 +10,18 @@ Scientifically, the plant Tomato can be categorised as
 8. Sub Species: ...
 9. Variety (Cultivar): ...
 
-Close Cousins : Tobacco, Chilli Peppers, Potato, Eggplant
 
-The [[Body parts]] of tomato can be classified into different parts.
+Close Cousins : 
+	Tobacco, Chilli Peppers, Potato, Eggplant
 
 
-There are different [[Cultivation of Tomatoes in Nepal]]
+Body Parts
+	The [[Body parts]] of tomato can be classified into different parts.
+
+
+There are different 
+	[[Cultivation of Tomatoes in Nepal]]
+
 
 Tomato Can suffer from different diseases. 
-[[Diseases of Tomato]]
+	[[Diseases of Tomato]]
