@@ -1,0 +1,1 @@
+Leaf is a [[Body parts|body part]] of a tomato.

@@ -1,0 +1,7 @@
+1.  [[Root knot nematode]] (Meloidogyne spp.)
+2.  [[Root lesion nematode]] (Pratylenchus spp.)
+3.  [[Tomato mosaic virus]] (ToMV)
+4.  [[Tomato yellow leaf curl virus]] (TYLCV)
+5.  [[Powdery mildew]] (Leveillula taurica)
+6.  [[Downy Mildew]] (Phytophthora infestans)
+7.  [[Fusarium wilt]] (Fusarium oxysporum)

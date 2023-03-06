@@ -4,22 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "17a135e301f0a80c",
+        "id": "9b0d30b71527317c",
         "type": "tabs",
         "children": [
           {
-            "id": "141f24cc55ca1043",
+            "id": "23d2df95f2ba8205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers and Reviews/Tomato bacterial fruit rot.md",
+                "file": "Papers and Reviews/Diseases of Tomato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f18afaa2d9f792e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e27c49500c49036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Viriod Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8cecdebeca11e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Tomato big bud phytoplasma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78df8d5fae340d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Bacterial Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13eb4a3cffec3ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers and Reviews/Fungal Diseases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers and Reviews/Tomato bacterial fruit rot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers and Reviews/Tomato bacterial fruit rot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Papers and Reviews/Tomato bacterial fruit rot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,35 +199,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141f24cc55ca1043",
+  "active": "f18afaa2d9f792e4",
   "lastOpenFiles": [
-    "Papers and Reviews/Pith necrosis.md",
-    "Papers and Reviews/Diseases of Tomato.md",
-    "Papers and Reviews/Cultivation of Tomatoes in Nepal.md",
-    "Papers and Reviews/Bacterial wilt.md",
-    "Papers and Reviews/Bacterial spot.md",
-    "Papers and Reviews/Bacterial Speck.md",
-    "Papers and Reviews/Bacterial Canker.md",
-    "Papers and Reviews/Powdery Mildew.md",
-    "Papers and Reviews/Fungal Diseases.md",
-    "Papers and Reviews/Gray Mold.md",
-    "Papers and Reviews/Anthracnose.md",
-    "Papers and Reviews/Verticillium Wilt.md",
-    "Papers and Reviews/Fusarium Wilt.md",
-    "Papers and Reviews/Late Blight.md",
-    "Papers and Reviews/Early  Blight.md",
-    "Papers and Reviews/Leaf.md",
     "Papers and Reviews/Root.md",
-    "Papers and Reviews/Body parts.md",
+    "Papers and Reviews/Fusarium Wilt.md",
+    "Papers and Reviews/Parasitic Diseases.md",
+    "Papers and Reviews/Bacterial Diseases.md",
+    "Papers and Reviews/Tomato spotted wilt virus.md",
+    "Papers and Reviews/Viriod Diseases.md",
+    "Papers and Reviews/Fungal Diseases.md",
+    "Papers and Reviews/Leaf.md",
+    "Papers and Reviews/Diseases of Tomato.md",
+    "Papers and Reviews/Tomato big bud phytoplasma.md",
+    "Papers and Reviews/Tomato chlorotic dwarf viroid.md",
     "Papers and Reviews/Tomato Plant.md",
-    "Papers and Reviews/Tomato bacterial fruit rot.md",
-    "Papers and Reviews/Southern bacterial wilt (Ralstonia solanacearum race 3 biovar 2).md",
+    "Papers and Reviews/Downy Mildew.md",
+    "Papers and Reviews/UntitledUntitled.md",
+    "Papers and Reviews/Powdery Mildew.md",
     "Papers and Reviews/Fruit.md",
     "Papers and Reviews/Stem.md",
-    "Papers and Reviews/Bacterial Diseases.md",
-    "Bacterial Canker.md",
+    "Papers and Reviews/Southern bacterial wilt (Ralstonia solanacearum race 3 biovar 2).md",
+    "Papers and Reviews/Tomato bacterial fruit rot.md",
+    "Papers and Reviews/Tomato mosaic virus.md",
+    "Papers and Reviews/Tomato yellow leaf curl virus.md",
+    "Papers and Reviews/Verticillium Wilt.md",
+    "Papers and Reviews/Bacterial Canker.md",
+    "Papers and Reviews/Anthracnose.md",
+    "Papers and Reviews/Bacterial spot.md",
+    "Papers and Reviews/Root lesion nematode.md",
     "Untitled.canvas",
-    "README.md",
     "Papers and Reviews"
   ]
 }

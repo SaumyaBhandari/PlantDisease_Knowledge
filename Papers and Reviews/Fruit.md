@@ -1,0 +1,1 @@
+Fruit is a [[Body parts|body part]] of tomato.
