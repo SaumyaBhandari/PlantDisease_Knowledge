@@ -2,7 +2,7 @@
 const interval = 5000;
 
 // Duration of scrolling in milliseconds (1 hour = 3600000 milliseconds)
-const duration = 3600000;
+const duration = 1.8e+7;
 
 // Start time
 const startTime = Date.now();
