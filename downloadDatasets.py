@@ -19,7 +19,7 @@ def download_image(args):
 df = pd.read_csv('Tomato Queries.csv')
 
 # create a folder to save the images
-savePath = 'Tomato Leaf Dataset/ScrapedImages/GeoKrishi Dataset' 
+savePath = 'Dataset/Tomato Leaf Dataset/GeoKrishi Dataset' 
 
 # Create download folder if it doesn't exist
 if not os.path.exists(savePath):
