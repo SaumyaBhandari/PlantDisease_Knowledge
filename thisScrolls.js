@@ -1,7 +1,7 @@
 // Scroll every 5 seconds
 const interval = 5000;
 
-// Duration of scrolling in milliseconds (1 hour = 3600000 milliseconds)
+// Duration of scrolling in milliseconds
 const duration = 1.8e+7;
 
 // Start time
